@@ -1,0 +1,19 @@
+{
+  "name": "careme",
+  "version": "1.0.0",
+  "description": "Health monitoring system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoRichard/CareMe.git"
+  },
+  "author": "antoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoRichard/CareMe/issues"
+  },
+  "homepage": "https://github.com/AntoRichard/CareMe#readme"
+}
